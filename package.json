@@ -1,0 +1,13 @@
+{
+  "name": "entregavel4-testes-jest",
+  "version": "1.0.0",
+  "description": "Algoritmos fundamentais com testes unitários em Jest - Entregável #4 (Unifor)",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Matheus Lucas Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
